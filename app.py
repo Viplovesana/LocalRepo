@@ -11,3 +11,4 @@ print("this is all yours")
 
 
 print("hello jarvis")
+print("jarvis:- where is friday")
