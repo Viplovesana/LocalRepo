@@ -4,4 +4,5 @@ x = 100
 ttt="viplove"
 company = "bridge-fix"
 print("i am doing good")
-print("oyeeeeeeeeeeeeeeeee")
+print("i am going to office tommorow")
+print("this is all yours")
